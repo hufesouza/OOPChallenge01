@@ -1,0 +1,16 @@
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\bin\Debug\net5.0\OOPChallenge01.exe
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\bin\Debug\net5.0\OOPChallenge01.deps.json
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\bin\Debug\net5.0\OOPChallenge01.runtimeconfig.json
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\bin\Debug\net5.0\OOPChallenge01.runtimeconfig.dev.json
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\bin\Debug\net5.0\OOPChallenge01.dll
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\bin\Debug\net5.0\OOPChallenge01.pdb
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\OOPChallenge01.csproj.AssemblyReference.cache
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\OOPChallenge01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\OOPChallenge01.AssemblyInfoInputs.cache
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\OOPChallenge01.AssemblyInfo.cs
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\OOPChallenge01.csproj.CoreCompileInputs.cache
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\OOPChallenge01.dll
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\refint\OOPChallenge01.dll
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\OOPChallenge01.pdb
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\OOPChallenge01.genruntimeconfig.cache
+C:\Users\HFerreira\source\repos\OOPChallenge01\OOPChallenge01\obj\Debug\net5.0\ref\OOPChallenge01.dll

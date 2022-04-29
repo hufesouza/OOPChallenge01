@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OOPChallenge01/1.0.0": {
+        "runtime": {
+          "OOPChallenge01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPChallenge01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
